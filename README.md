@@ -111,8 +111,8 @@ npm -v
 
 1. **Clone the repository**:
    ```bash
-   git clone git@github.com:thinkphp/react-vite-tip-calculator.git
-   cd react-vite-tip-calculator
+   git clone git@github.com:roxanaio/Splitter.git
+   cd Splitter
    ```
 
 2. **Install dependencies**:

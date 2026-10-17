@@ -145,7 +145,7 @@ In the project directory, you can run:
 The project is configured for deployment to GitHub Pages via the `gh-pages` branch. The base URL in [vite.config.js](file:///home/ironman/Desktop/BiancaCS/Unit7/React/react-vite-tip-calculator/vite.config.js) is set to:
 
 ```js
-base: '/react-vite-tip-calculator/'
+base: '/Splitter/'
 ```
 
 To deploy updates, run:
